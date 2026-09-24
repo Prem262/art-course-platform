@@ -55,3 +55,4 @@ npm run build
 Application runs locally at `http://localhost:5173`.
 Progress, enrollments, and resume points are saved automatically in `localStorage`.
 "# art-course-platform" 
+"# art-course-platform" 
